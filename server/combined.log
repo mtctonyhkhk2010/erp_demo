@@ -1,0 +1,6 @@
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"shopifyController"}
+{"level":"error","message":"Request failed with status code 404","service":"shopifyController"}
+{"level":"error","message":"Request failed with status code 404","service":"shopifyController"}
