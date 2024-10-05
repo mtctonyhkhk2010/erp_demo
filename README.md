@@ -1,11 +1,14 @@
 ERP demo\
-package used:\
+
+Backend packages used:\
 express\
-react\
 sequelize\
 node-cron\
+winston
+
+Frontend packages used:\
+react\
 vite\
 tailwindcss\
 axios\
-mui\
-winston
+mui
